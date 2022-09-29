@@ -1,0 +1,29 @@
+*{
+    font-size: 3mm;
+}
+.checkbox{
+    text-align: center;
+}
+select.form-control{
+    text-align: center;
+}
+textarea{
+    resize: none;
+    overflow: auto;
+}
+
+td{
+    height: 6mm;
+}
+.proceso{
+    width: 20%;
+}
+.formulario{
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0%;
+}
+/* #signos{
+    border:0.5mm black solid;
+} */
